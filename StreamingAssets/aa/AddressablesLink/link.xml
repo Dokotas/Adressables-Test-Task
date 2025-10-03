@@ -3,6 +3,7 @@
     <type fullname="Chest" preserve="all" />
     <type fullname="Door" preserve="all" />
     <type fullname="DustParticles" preserve="all" />
+    <type fullname="GameManager" preserve="all" />
     <type fullname="GameplayUI" preserve="all" />
     <type fullname="Loading" preserve="all" />
     <type fullname="PlayerConfigurator" preserve="all" />
@@ -10,6 +11,7 @@
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReference" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Rendering.Volume" preserve="all" />
