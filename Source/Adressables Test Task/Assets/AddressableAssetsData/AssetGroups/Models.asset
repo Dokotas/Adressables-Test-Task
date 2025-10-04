@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Models
+  m_EditorClassIdentifier: 
+  m_GroupName: Models
+  m_GUID: b453285a15d447c42a98b95d9e7fed6f
+  m_SerializeEntries:
+  - m_GUID: 20d17ce6e4aae7d48a4b6d93cdc4727c
+    m_Address: Assets/Models/Gameplay Elements/Key.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2cae7626c2bf8dc40b8dd84baea99167
+    m_Address: Assets/Models/Gameplay Elements/Chest.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fcdbb1f8bb0ac44d8d34a32ed6bafa4
+    m_Address: Assets/Models/Gameplay Elements/Goal_Door.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f5858cf2c3ec59428254c8fff5e9130
+    m_Address: Assets/Models/Dino.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 29e5d6a0202ca9c43801e20e2ba4c48f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f3d47f445c846074d9e99af58f0b5671, type: 2}
+    - {fileID: 11400000, guid: a3372af17bf8b494d8f2a1cbf0842366, type: 2}

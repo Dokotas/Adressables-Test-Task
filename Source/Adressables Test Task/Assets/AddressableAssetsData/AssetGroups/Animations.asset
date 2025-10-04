@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Animations
+  m_EditorClassIdentifier: 
+  m_GroupName: Animations
+  m_GUID: c193ba76683ca4647852ca233b4aced9
+  m_SerializeEntries:
+  - m_GUID: 29920831145b67844beef6211e67156b
+    m_Address: Assets/Animation/GoalDoor_Closed.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67370538fb35c754ba6f64bd4fe3e9a3
+    m_Address: Assets/Animation/DinoAnimatorController.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70dca42bf6fb2154c9064e880961f7a0
+    m_Address: Assets/Animation/Chest_Anim_Open.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac5012ecc45b04e458b6027b8195e203
+    m_Address: Assets/Animation/Chest.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e23cc4e0db3084541a836f54e3c221a3
+    m_Address: Assets/Animation/Chest_Anim_Closed.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e65d57c3ae024a947b07c6634255a3a9
+    m_Address: Assets/Animation/GoalDoor_Open.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f49492a30751de7488024e50f00c496f
+    m_Address: Assets/Animation/Goal_Door.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 29e5d6a0202ca9c43801e20e2ba4c48f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 038566cb2ae66a6458658f75b7031c1a, type: 2}
+    - {fileID: 11400000, guid: d9b4bee15d7dcd14b836e22c0b6375a5, type: 2}

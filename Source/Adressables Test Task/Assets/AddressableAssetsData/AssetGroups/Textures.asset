@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Textures
+  m_EditorClassIdentifier: 
+  m_GroupName: Textures
+  m_GUID: d58bceaba9fc43342a6c3e324e7bcc98
+  m_SerializeEntries:
+  - m_GUID: 1590e0e8681d95a428c24c0ae8028c97
+    m_Address: Assets/Textures/Gameplay Elements/Chest_Chest_MetallicSmoothness.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 197e5cd540a76d7488b8ee5c86223a62
+    m_Address: Assets/Textures/Dino/Dino_Dino_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5999dfa22b38c2b4a8c4886304228f4e
+    m_Address: Assets/Textures/UI/KeyIcon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ef5e06c15a4619429db9633d6b46a2c
+    m_Address: Assets/Textures/Gameplay Elements/Key_Key_MetallicSmoothness.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60b4f9d219022404488a893b0d9b9ee7
+    m_Address: Assets/Textures/Gameplay Elements/Key_Key_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c32906745141e64d936ee29733d3e44
+    m_Address: Assets/Textures/UI/CloseButton.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91732b8fc893ea749b08ead272de8c5f
+    m_Address: Assets/Textures/Particles/FX_ChestParticles.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4ae8eba9af366945ab5d751a47d520d
+    m_Address: Assets/Textures/Dino/Dino_Dino_AlbedoTransparency.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad66be6bbf6e6db45ab1dcecdc99eaa8
+    m_Address: Assets/Textures/Dino/Dino_Dino_MetallicSmoothness.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b68e76f75fb761146855c073a971fda2
+    m_Address: Assets/Textures/Particles/FX_JumpDust.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3a9b5d611a35464a8e473e4249a1df9
+    m_Address: LoadyDungeonsLogo
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Menu
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c52c65f78363b3946882058352d4dfb2
+    m_Address: Assets/Textures/Gameplay Elements/Goal_Door_Goal_MetallicSmoothness.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca6e89236452b804b91633e6a9c4215a
+    m_Address: Assets/Textures/Dino/Dino_Dino_AO.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd165a9eb8f91e84bb339a55a27b3299
+    m_Address: Assets/Textures/Gameplay Elements/Goal_Door_Goal_AlbedoTransparency.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d64c972dec7ba7c4f9849df2280e71b3
+    m_Address: Assets/Textures/Gameplay Elements/Key_Key_AlbedoTransparency.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9f5bca8775d99341944cda775ad2ef0
+    m_Address: Assets/Textures/Gameplay Elements/Chest_Chest_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0504de73548df64a85c998cecf05e86
+    m_Address: Assets/Textures/Particles/FX_Star.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f368aff4a35c2b14db6687babca10149
+    m_Address: Assets/Textures/Gameplay Elements/Chest_Chest_AlbedoTransparency.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbccc353fb9ef884dac30c1bf2cf8d37
+    m_Address: Assets/Textures/Gameplay Elements/Goal_Door_Goal_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 29e5d6a0202ca9c43801e20e2ba4c48f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1eb9a703b3a4f0d458bbcc753b62793a, type: 2}
+    - {fileID: 11400000, guid: c48a2047a063be240abb0b1bf7e8b7f8, type: 2}

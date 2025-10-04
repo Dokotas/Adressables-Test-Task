@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Materials
+  m_EditorClassIdentifier: 
+  m_GroupName: Materials
+  m_GUID: b323bd44c89519b4c96e7d71004afcc2
+  m_SerializeEntries:
+  - m_GUID: 2578c651a80a0314d8fd0834bb5d83ff
+    m_Address: Assets/Materials/Particles/FX_Star.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ea8da319b6ed5347a7a25b4ed60f282
+    m_Address: Assets/Materials/Dino.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 777785f55ad6a8749953b09d9a30f546
+    m_Address: Assets/Materials/Gameplay Elements/Goal_Door_Goal_AlbedoTransparency.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d4495221c44c474398a9fa172987755
+    m_Address: Assets/Materials/Particles/FX_JumpDust.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a86d624505485284cbb786ea1fd3457f
+    m_Address: Assets/Materials/Particles/FX_Chest.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7f33961f96d484499228abf05199cdb
+    m_Address: Assets/Materials/Gameplay Elements/Key_Key_AlbedoTransparency.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2fec2821dbffd94e84e95b6d34a1ad2
+    m_Address: Assets/Materials/Gameplay Elements/Chest_Chest_AlbedoTransparency.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 29e5d6a0202ca9c43801e20e2ba4c48f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c530a36239314664ab8a46462dd5976b, type: 2}
+    - {fileID: 11400000, guid: 5ae4a843ac742c54ca9320ed0660bcea, type: 2}

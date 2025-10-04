@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Hats
+  m_EditorClassIdentifier: 
+  m_GroupName: Hats
+  m_GUID: 77d6367e4768b7242b0496741dc96d9a
+  m_SerializeEntries:
+  - m_GUID: 173ee4c7d80755d47aa3339f970e8ade
+    m_Address: Hat05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 434c1413ad6a76842a3a98e6a21aefa5
+    m_Address: Hat03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c93cb6413eaf5f46bbe190dbbad2651
+    m_Address: Hat02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e65281e8a345ff4ea1b73f2a1578a6d
+    m_Address: Hat01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b53baa10142cbb346a47ab071d32889a
+    m_Address: Hat00
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fancy
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc8eb9039a6936749b8aad319953ab89
+    m_Address: Hat04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 29e5d6a0202ca9c43801e20e2ba4c48f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a86616401c9f186498665b2ed9ffcb20, type: 2}
+    - {fileID: 11400000, guid: 6a6da8252efaa5446a230dc8b2ab2cca, type: 2}

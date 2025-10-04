@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
+  m_Name: AddressableAssetSettings
+  m_EditorClassIdentifier: 
+  m_DefaultGroup: 35dc42d509ee84f4eb906bc0ee872bec
+  m_currentHash:
+    serializedVersion: 2
+    Hash: c1ba029f5593697d6ce33b63a52ea5be
+  m_OptimizeCatalogSize: 0
+  m_BuildRemoteCatalog: 1
+  m_CatalogRequestsTimeout: 0
+  m_DisableCatalogUpdateOnStart: 0
+  m_InternalIdNamingMode: 0
+  m_InternalBundleIdMode: 1
+  m_AssetLoadMode: 0
+  m_BundledAssetProviderType:
+    m_AssemblyName: Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    m_ClassName: UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider
+  m_AssetBundleProviderType:
+    m_AssemblyName: Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    m_ClassName: UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider
+  m_IgnoreUnsupportedFilesInBuild: 0
+  m_UniqueBundleIds: 0
+  m_EnableJsonCatalog: 0
+  m_NonRecursiveBuilding: 1
+  m_AllowNestedBundleFolders: 0
+  m_CCDEnabled: 1
+  m_maxConcurrentWebRequests: 3
+  m_UseUWRForLocalBundles: 0
+  m_BundleTimeout: 0
+  m_BundleRetryCount: 0
+  m_BundleRedirectLimit: -1
+  m_SharedBundleSettings: 0
+  m_SharedBundleSettingsCustomGroupIndex: 0
+  m_ContiguousBundles: 1
+  m_StripUnityVersionFromBundleBuild: 0
+  m_DisableVisibleSubAssetRepresentations: 0
+  m_BuiltInBundleNaming: 0
+  mBuiltInBundleCustomNaming: 
+  m_MonoScriptBundleNaming: 0
+  m_CheckForContentUpdateRestrictionsOption: 0
+  m_BuildAndReleaseBinFileOption: 0
+  m_MonoScriptBundleCustomNaming: 
+  m_RemoteCatalogBuildPath:
+    m_Id: 39911873e7532ad42851e5cc0d07c159
+  m_RemoteCatalogLoadPath:
+    m_Id: b6ac3a8c0e5b72a4d9c44b4b2efb9eb0
+  m_ContentStateBuildPathProfileVariableName: <default settings path>
+  m_CustomContentStateBuildPath: 
+  m_ContentStateBuildPath: 
+  m_BuildAddressablesWithPlayerBuild: 0
+  m_overridePlayerVersion: '[UnityEditor.PlayerSettings.bundleVersion]'
+  m_GroupAssets:
+  - {fileID: 11400000, guid: 916df6b15a20a074ea1f15282c6a3e24, type: 2}
+  - {fileID: 11400000, guid: c34012c71f730d943aabc8f638d8f329, type: 2}
+  - {fileID: 11400000, guid: 6c69e68867c5f714299510d1f37e0165, type: 2}
+  - {fileID: 11400000, guid: 8e75d12a8df63194489b126cf9af1818, type: 2}
+  - {fileID: 11400000, guid: f502c7ff5f8e9a74b82af03556d4b740, type: 2}
+  - {fileID: 11400000, guid: aeb2354567ad37f418f93e28dfd8448e, type: 2}
+  - {fileID: 11400000, guid: 11d01fe58a38d5244ba5191eb81ac053, type: 2}
+  - {fileID: 11400000, guid: 44d8f03064e330648a37d5cb9d4c0483, type: 2}
+  - {fileID: 11400000, guid: 5d4ce61b367580242b52a918589cdf61, type: 2}
+  - {fileID: 11400000, guid: cda7f50f5939855408f55984123b6402, type: 2}
+  m_BuildSettings:
+    m_LogResourceManagerExceptions: 1
+    m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
+  m_ProfileSettings:
+    m_Profiles:
+    - m_InheritedParent: 
+      m_Id: da4df02353b831141a0bf1dd8d5da98d
+      m_ProfileName: Default
+      m_Values:
+      - m_Id: 0b37ced46aee3234b9d8666204d9b940
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 39911873e7532ad42851e5cc0d07c159
+        m_Value: D:/Projects/Unity/Adressables Test Work/Assets
+      - m_Id: 4e286725e7a466d4f8f121d9fcc56cea
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: a6a4a2580d1b45c48ad16086abb31e9d
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: b6ac3a8c0e5b72a4d9c44b4b2efb9eb0
+        m_Value: D:/Projects/Unity/Adressables Test Work/Assets
+    - m_InheritedParent: 
+      m_Id: 41278160a633b7b4d95ab2cddc73095a
+      m_ProfileName: 'Development '
+      m_Values:
+      - m_Id: 0b37ced46aee3234b9d8666204d9b940
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 39911873e7532ad42851e5cc0d07c159
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: 4e286725e7a466d4f8f121d9fcc56cea
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: a6a4a2580d1b45c48ad16086abb31e9d
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: b6ac3a8c0e5b72a4d9c44b4b2efb9eb0
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+    - m_InheritedParent: 
+      m_Id: 8c16c08f0f82acc4b9523a0261096f81
+      m_ProfileName: Test
+      m_Values:
+      - m_Id: 0b37ced46aee3234b9d8666204d9b940
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 39911873e7532ad42851e5cc0d07c159
+        m_Value: D:\Projects\Repositories\Adressables-Test-Task\Bundles
+      - m_Id: 4e286725e7a466d4f8f121d9fcc56cea
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: a6a4a2580d1b45c48ad16086abb31e9d
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: b6ac3a8c0e5b72a4d9c44b4b2efb9eb0
+        m_Value: https://Dokotas.github.io/Adressables-Test-Task/Bundles
+    - m_InheritedParent: 
+      m_Id: bb36afef7ab63714ebe25c66468c3cd9
+      m_ProfileName: Production
+      m_Values:
+      - m_Id: 0b37ced46aee3234b9d8666204d9b940
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 39911873e7532ad42851e5cc0d07c159
+        m_Value: D:\Projects\Repositories\Adressables-Test-Task\Bundles
+      - m_Id: 4e286725e7a466d4f8f121d9fcc56cea
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: a6a4a2580d1b45c48ad16086abb31e9d
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: b6ac3a8c0e5b72a4d9c44b4b2efb9eb0
+        m_Value: https://Dokotas.github.io/Adressables-Test-Task/Bundles
+    m_ProfileEntryNames:
+    - m_Id: 0b37ced46aee3234b9d8666204d9b940
+      m_Name: Local.LoadPath
+      m_InlineUsage: 0
+    - m_Id: 39911873e7532ad42851e5cc0d07c159
+      m_Name: Remote.BuildPath
+      m_InlineUsage: 0
+    - m_Id: 4e286725e7a466d4f8f121d9fcc56cea
+      m_Name: BuildTarget
+      m_InlineUsage: 0
+    - m_Id: a6a4a2580d1b45c48ad16086abb31e9d
+      m_Name: Local.BuildPath
+      m_InlineUsage: 0
+    - m_Id: b6ac3a8c0e5b72a4d9c44b4b2efb9eb0
+      m_Name: Remote.LoadPath
+      m_InlineUsage: 0
+    m_ProfileVersion: 1
+  m_LabelTable:
+    m_LabelNames:
+    - default
+    - Fancy
+    - Menu
+    - Game
+  m_SchemaTemplates: []
+  m_GroupTemplateObjects:
+  - {fileID: 11400000, guid: 84bc6e4eb1a8e934c81d32616eb652aa, type: 2}
+  m_InitializationObjects: []
+  m_CertificateHandlerType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_ActivePlayerDataBuilderIndex: 2
+  m_DataBuilders:
+  - {fileID: 11400000, guid: 2f0cf8768c0353342ae2b3ddece8107d, type: 2}
+  - {fileID: 11400000, guid: 0832e6cb3054efb42a338c8952187ca2, type: 2}
+  - {fileID: 11400000, guid: 4d5b1f2cfab185c439b409de2f0adf83, type: 2}
+  m_ActiveProfileId: bb36afef7ab63714ebe25c66468c3cd9
+  m_CcdManagedData:
+    EnvironmentId: 
+    EnvironmentName: 
+    BucketId: 
+    Badge: 
+    State: 0
